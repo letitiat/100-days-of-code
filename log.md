@@ -1,30 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: Saturday 27th July
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started 30 days of Javascript. Built a cool drum app, made it flex and also made the sound play on click. Worked on illustrations for own websites. Did some CodeWars practice which was good!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Felt like I'm starting to understand Javascript much better.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://letitiat.github.io/Javascript-Drum-Set/
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: Sunday 28th July
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did day two of #Javascript30 - built a CSS clock. Made some changes to it. Also finished Udemy Javascript course. Did a Daily UI challenge and made a sign up page.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Want to make sure I continue to develop CSS/HTML skills.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [CSS Clock] https://codepen.io/letitiat/pen/WVompe
+                     [UI Design] https://codepen.io/letitiat/pen/WVompe
 
 
-### Day 1: June 27, Monday
+### Day 3: Monday 29th July
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Day three of Javascript - wanted to make some changes but struggled a bit more today, so just changed it up stylistically. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
+
+**Plan For Tomorrow** 
+
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
