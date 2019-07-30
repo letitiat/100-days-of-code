@@ -22,12 +22,18 @@
 
 ### Day 3: Monday 29th July
 
-**Today's Progress**: Day three of Javascript - wanted to make some changes but struggled a bit more today, so just changed it up stylistically. 
+**Today's Progress**: Day three of Javascript - wanted to make some changes but struggled a bit more today, so just changed it up stylistically. Completed UI Daily check out page.
 
-**Thoughts** 
+**Thoughts** Need to stick with Javascript course.
 
-**Plan For Tomorrow** 
 
+### Day 3: Tuesday 30th July
+
+**Today's Progress**: Day four of Javascript - Array cardio. Definitely need more practice with arrays! Got through half of my intermediate Udemy Javascript course, so good progress made. Made some changes to my portfolio design - much better!
+
+**Thoughts** Need to get portfolio design finished soon - feel like I'm procrastinating with it.
+
+**Plan For Tomorrow** Made more assets for portfolio. Daily Javascript and do more of udemy course.
 
 **Link(s) to work**
 
