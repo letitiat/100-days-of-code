@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: Saturday 27th July
-##### (delete me or comment me out)
 
 **Today's Progress**: Started 30 days of Javascript. Built a cool drum app, made it flex and also made the sound play on click. Worked on illustrations for own websites. Did some CodeWars practice which was good!
 
@@ -27,7 +26,7 @@
 **Thoughts** Need to stick with Javascript course.
 
 
-### Day 3: Tuesday 30th July
+### Day 4: Tuesday 30th July
 
 **Today's Progress**: Day four of Javascript - Array cardio. Definitely need more practice with arrays! Got through half of my intermediate Udemy Javascript course, so good progress made. Made some changes to my portfolio design - much better!
 
@@ -37,3 +36,22 @@
 
 **Link(s) to work**
 
+### Day 5: Wednesday 30th July
+
+**Today's Progress**: Day 5 was flex box/javascript panels. Had lots of fun with this and feel like I understood it and could recreate it.
+
+**Thoughts** Happy with JS progress.
+
+**Plan For Tomorrow** Daily Javascript and do more of udemy course.
+
+**Link(s) to work** https://codepen.io/letitiat/pen/bXWjJz
+
+### Day 6: Thurs 1st August
+
+**Today's Progress**: Day 6, Type Ahead project from #Javascript30. First time I've ever came across then and RegEx, so need to look into that more. Struggled with today's project quite a bit!
+
+**Thoughts** 
+
+**Plan For Tomorrow** Made more assets for portfolio. Daily Javascript and do more of udemy course.
+
+**Link(s) to work** https://codepen.io/letitiat/pen/oKeZjZ
